@@ -23,7 +23,7 @@ body{
 }
   
   
-.font{
+.font1{
       font-size: 20px;
       color: rgb(160, 158, 158);
 }
@@ -32,6 +32,40 @@ body{
 .immagini{
     margin-top: 20px;
 }
+
+
+
+.color{
+    color :deepskyblue
+}
+
+
+ /*colore header tabella*/
+.background1{
+    color: white;
+    background-color: rgb(24, 172, 221);
+    
+}
+ 
+
+ /*colore corpo tabella*/
+.background2{
+    background-color: rgb(158, 216, 252);
+}
+
+
+
+.padding{
+    padding: 1px;
+    width: 100%;
+
+}
+
+
+
+
+
+
 
 
 
