@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
   
- 
+ /*titolo*/
 .header{
     background-color: #5f9aff;
     height:80px;
@@ -16,7 +16,7 @@
     
 }
   
-  
+  /*body*/
 body{
     width: 70%;
     margin: 0 auto;
@@ -34,7 +34,7 @@ body{
 }
 
 
-
+/*colore del sottotitolo "the booleaner"*/
 .color{
     color :deepskyblue
 }
@@ -62,6 +62,33 @@ body{
 }
 
 
+/*prima immagine del footer*/
+.primaimmagine {
+    margin: 0px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 50px;
+    text-align: left;
+    width: 270px;
+    height: 200px;
+  }
+
+  /*seconda immagine del footer*/
+  .secondaimmagine{
+    margin: 0px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 50px;
+    text-align: left;
+    width: 270px;
+    height: 200px;
+  }
 
 
 
@@ -69,17 +96,7 @@ body{
 
 
 
-.main-title{
-    font-size: 2rem;
-    text-align: center;
-    padding: 30px 0;
-    /* padding-left: 0;
-    padding-right: 0;
-    padding-top: 30px;
-    padding-bottom: 30px; */
-  
-    /* padding: 0 10px 20px 30px; */
-}
+
   
   
   
