@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+  
+ 
+.header{
+    background-color: #5f9aff;
+    height:80px;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-size: cover;
+    background-size: 20%;
+    
+    
+}
+  
+  
+body{
+    width: 70%;
+    margin: 0 auto;
+}
+  
+  
+.font{
+      font-size: 20px;
+      color: rgb(160, 158, 158);
+}
+  
+
+.immagini{
+    margin-top: 20px;
+}
+
+
+
+.main-title{
+    font-size: 2rem;
+    text-align: center;
+    padding: 30px 0;
+    /* padding-left: 0;
+    padding-right: 0;
+    padding-top: 30px;
+    padding-bottom: 30px; */
+  
+    /* padding: 0 10px 20px 30px; */
+}
+  
+  
+  
+  
+
+
+  
+  
+
+  
+  
